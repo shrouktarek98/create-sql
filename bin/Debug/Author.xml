@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Table name="Author">
+  <author>
+    <Id>1</Id>
+    <Name>charls</Name>
+    <Gendar>Male</Gendar>
+    <Age>45</Age>
+    <books>
+    <book>
+      <Name>Oliver twist</Name>
+      <Price>20</Price>
+      <Category>drama</Category>
+      <age_group>15</age_group>
+    </book>
+    </books>
+ 
+  
+  </author>
+  
+  <author>
+    <Id>2</Id>
+    <Name>mai selem</Name>
+    <Gendar>Female</Gendar>
+    <Age>29</Age>
+    <books>
+    <book>
+      <Name>Ard El-Zekola</Name>
+      <Price>45</Price>
+      <Category>Fiction</Category>
+      <age_group>30</age_group>
+    </book>
+	 <book>
+      <Name>Ard El-Allah</Name>
+      <Price>50</Price>
+      <Category>drama</Category>
+      <age_group>50</age_group>
+    </book>
+   </books>
+  </author>
+  
+</Table>
